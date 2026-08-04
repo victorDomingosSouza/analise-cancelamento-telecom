@@ -9,7 +9,9 @@ A base analisada possui 7.043 clientes e apresenta uma taxa global de cancelamen
 Achado: Clientes no plano mensal (Month-to-month) possuem uma taxa de cancelamento de 42,7%, enquanto contratos anuais e bienais apresentam apenas 11,3% e 2,8% de churn, respectivamente.
 
 Impacto no Negócio: O modelo mensal gera alta volatilidade na receita e eleva o custo de substituição de clientes (CAC). A transição para modelos plurianuais garante maior previsibilidade de caixa e estabilização do faturamento.
-![Gráfico de cancelamento por Contrato](tipo_cancelamento.png
+
+![Gráfico de cancelamento por Contrato](tipo_cancelamento.png)
+
  B. Fibra Óptica, Percepção de Valor e Fuga de Clientes High-LTV
 Achado: O serviço de Fibra Óptica concentra a maior taxa absoluta e relativa de cancelamento (41,9% contra 19,0% da tecnologia DSL).
 
