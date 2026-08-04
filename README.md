@@ -1,6 +1,9 @@
 # analise-cancelamento-telecom
  Visão Geral do Problema
+ 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorDomingosSouza/analise-cancelamento-telecom/blob/main/Analise_de_cancelamentos_Telecom.ipynb)
+
+   
 O objetivo desta análise é responder a uma das maiores dores de empresas de telecomunicações: por que os clientes estão cancelando seus serviços e como reter a receita da base?
 
  A base analisada possui 7.043 clientes e apresenta uma taxa global de cancelamento de 26,5%.
