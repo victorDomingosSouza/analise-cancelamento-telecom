@@ -10,22 +10,28 @@ Achado: Clientes no plano mensal (Month-to-month) possuem uma taxa de cancelamen
 
 Impacto no Negócio: O modelo mensal gera alta volatilidade na receita e eleva o custo de substituição de clientes (CAC). A transição para modelos plurianuais garante maior previsibilidade de caixa e estabilização do faturamento.
 
-![Gráfico de cancelamento por Contrato](tipo_cancelamento.png)
+![Gráfico de cancelamento por Contrato](taxa_cancelamento_tipo_plano.png)
 
  B. Fibra Óptica, Percepção de Valor e Fuga de Clientes High-LTV
 Achado: O serviço de Fibra Óptica concentra a maior taxa absoluta e relativa de cancelamento (41,9% contra 19,0% da tecnologia DSL).
 
 Impacto Financeiro (Revenue Churn): Clientes de Fibra Óptica possuem o ticket médio mais alto (~US$ 115/mês). O cliente nº 1 em faturamento histórico de toda a empresa (US$ 8.684,80 acumulados em 6 anos) cancelou o serviço devido a problemas de velocidade frente à concorrência, evidenciando uma sangria desproporcional nos clientes de maior valor acumulado (Lifetime Value).
 
+![Gráfico de cancelamento por Contrato](cancelamento_portipo_produto.png)
+
 C. Fricção no Pagamento: Cheque Eletrônico vs. Cobrança Automática
 Achado: 57,3% de todo o churn da empresa ocorre entre clientes que pagam via Cheque Eletrônico (Electronic Check), com uma taxa de cancelamento de 45,3% nesta modalidade.
 
 Impacto no Comportamento: Pagamentos manuais exigem uma decisão ativa a cada ciclo de faturamento, criando uma janela mensal de reflexão em que o cliente reavalia a continuidade do serviço. Em contrapartida, clientes com débito ou cartão automático apresentam churn de apenas ~15%.
 
+![Gráfico de cancelamento por Contrato](formas_pagamento.png)
+
  D. Diagnóstico do Atendimento: Suporte Técnico vs. Concorrência
 Achado: Ao analisar os motivos individuais de cancelamento, a atitude da equipe de Suporte Técnico (Attitude of Support Person) é o motivo isolado nº 1 (192 cancelamentos), seguido de perto por ofertas da concorrência com maior velocidade ou franquia de dados.
 
 Especificidade: O gargalo no atendimento não está concentrado no SAC comercial, mas sim na experiência de suporte de engenharia/resolução de falhas técnicas, gerando frustração no momento de instabilidade do serviço.
+
+![Gráfico de cancelamento por Contrato](tipo_cancelamento.png)
 
 4. Plano de Ação Estratégico Integrado
 Em vez de ações isoladas, a recomendação executiva propõe uma "Super Oferta Combinada" para atacar as três principais causas de cancelamento em uma única campanha de conversão:
