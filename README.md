@@ -1,10 +1,11 @@
 # analise-cancelamento-telecom
-1. Visão Geral do Problema
+ Visão Geral do Problema
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorDomingosSouza/analise-cancelamento-telecom/blob/main/Analise_de_cancelamentos_Telecom.ipynb)
 O objetivo desta análise é responder a uma das maiores dores de empresas de telecomunicações: por que os clientes estão cancelando seus serviços e como reter a receita da base?
 
-A base analisada possui 7.043 clientes e apresenta uma taxa global de cancelamento de 26,5%.
+ A base analisada possui 7.043 clientes e apresenta uma taxa global de cancelamento de 26,5%.
 
- 2. Principais Descobertas (Data Insights)
+ Principais Descobertas (Data Insights)
  A. Impacto do Modelo Contratual e Previsibilidade de Caixa
 Achado: Clientes no plano mensal (Month-to-month) possuem uma taxa de cancelamento de 42,7%, enquanto contratos anuais e bienais apresentam apenas 11,3% e 2,8% de churn, respectivamente.
 
@@ -33,7 +34,7 @@ Especificidade: O gargalo no atendimento não está concentrado no SAC comercial
 
 ![Gráfico de cancelamento por Contrato](tipo_cancelamento.png)
 
-4. Plano de Ação Estratégico Integrado
+Plano de Ação Estratégico Integrado
 Em vez de ações isoladas, a recomendação executiva propõe uma "Super Oferta Combinada" para atacar as três principais causas de cancelamento em uma única campanha de conversão:
 
 A Oferta Combinada (Aquisição e Retenção)
