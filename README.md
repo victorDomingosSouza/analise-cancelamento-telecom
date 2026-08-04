@@ -28,19 +28,19 @@ Especificidade: O gargalo no atendimento não está concentrado no SAC comercial
 4. Plano de Ação Estratégico Integrado
 Em vez de ações isoladas, a recomendação executiva propõe uma "Super Oferta Combinada" para atacar as três principais causas de cancelamento em uma única campanha de conversão:
 
-🎯 A "Super Oferta Combinada" (Aquisição e Retenção)
+A Oferta Combinada (Aquisição e Retenção)
 Condicionar o plano de Fibra Óptica ao Contrato Anual com pagamento via Cartão de Crédito ou Débito Automático. Em troca, o cliente recebe:
 
 15% de desconto nas 3 primeiras mensalidades.
 
 Inclusão gratuita de Serviços de Valor Agregado (SVAs): Tech Support e Online Security nativos na fatura (serviços que comprovadamente reduzem o churn para ~15%).
 
-🛠️ Ações Operacionais e Governança de Suporte
+Ações Operacionais e Governança de Suporte
 Reciclagem do Suporte Técnico: Capacitação contínua focada em resolutividade no primeiro contato (First Call Resolution), reduzindo o atrito em chamados de manutenção.
 
 Célula de Retenção para Clientes VIP (High-LTV): Fila de atendimento prioritária para clientes de alta receita (mensalidade > US$ 100) com problemas técnicos reincidentes, bloqueando a migração preventiva para concorrentes.
 
-🛠️ Tecnologias Utilizadas
+Tecnologias Utilizadas
 Linguagem: Python 3.x
 
 Manipulação de Dados: Pandas
